@@ -65,15 +65,18 @@ density (poetry, prose, drama all mixed in).
 more simple for me, and ebooks might be complicated.
 
 #### Different Seasons (15)
+
 - ebook so no-curve just time and pages/chars
 - Page count based on first ed. Viking.
 
 #### Beowulf: A New Verse Translation (16)
+
 - I had the bilingual ed. Only read the English side. Page and word count based
 on only the English pages.
 - Session pages are the physical page #
 
 #### The Death of Ivan Ilyich ... (17)
+
 - Using the publication date of the titular story
   - Too many choices otherwise. Translations all have dates, each story has
   original dates, penguin has a date ...
@@ -83,7 +86,13 @@ on only the English pages.
 - Good example of a time where I can still do a curve even though there's separate stories: all the same kind of text and density.
 
 #### Friday (21)
+
 - No format available for an exact word count. Used a converted PDF---not perfect.
 
 #### Crazy Genie (28)
+
 - Word count based on first page because I'm lazy.
+
+#### The Eyes of the Dragon (29)
+
+- Page count based on first Viking ed? Maybe?
