@@ -96,3 +96,9 @@ on only the English pages.
 #### The Eyes of the Dragon (29)
 
 - Page count based on first Viking ed? Maybe?
+
+#### Gulliver's Travels (33)
+
+- Note that I didn't read through the contents, but the pages are
+recorded anyway because before them are the letters/publisher's
+notes. The words are not counted, however.
